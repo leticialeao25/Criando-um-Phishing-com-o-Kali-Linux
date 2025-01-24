@@ -76,6 +76,9 @@ Foi usado a opção 2 – site cloner
 Resultado:
 
 
+![passo9](https://github.com/user-attachments/assets/35eedfdd-5216-469f-a32d-3f29f278967d)
+
+
 
  
 
